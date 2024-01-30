@@ -2,6 +2,9 @@
   "name": "poc-switchboard",
   "version": "0.1.0",
   "private": true,
+  "engiens":{
+    "node": ">=18.17.0"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
